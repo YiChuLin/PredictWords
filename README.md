@@ -1,2 +1,2 @@
 # PredictWords
-Uses LSTM network to learn to generate vocabulary-like words
+This iPython notebook implements a recurrent neural network to learn to generate vocabulary-like words.
